@@ -2,7 +2,7 @@
 
 #__Приложение с использованием MVC Codeigniter (php, ajax, search, Datatable, MySQL, PhpSpreadsheet)__#
 
-:white_check_mark: CRUD-приложение на Codeigniter (создание, чтение,редактирование,удаление данных)
+:white_check_mark: CRUD-приложение на Codeigniter (создание, чтение,редактирование,удаление данных)\
 :white_check_mark: Поиск данных Datatable
 :white_check_mark: Экспорт данных в Excel (PhpSpreadsheet)
 :white_check_mark: Импорт данных CSV в директорию проекта
