@@ -4,8 +4,6 @@ $this->section('title') ?> Реестр плановых проверок <?= $t
 <?= $this->section('content'); ?>
 
 
-
-
     <div class="container">
         <div class="row py-4">
             <div class="col-xl-12 text-end">
@@ -131,6 +129,20 @@ $this->section('title') ?> Реестр плановых проверок <?= $t
                 </div>
             </div>
         </div>
+            <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+            <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+
+            <!-- DATATABLES  -->
+            <script type="text/javascript" language="javascript" src="//cdn.datatables.net/1.10.7/js/jquery.dataTables.min.js"></script>
+            <script type="text/javascript" language="javascript" src="//cdn.datatables.net/plug-ins/1.10.7/integration/bootstrap/3/dataTables.bootstrap.js"></script>
+            <script type="text/javascript" charset="utf-8">
+                $(document).ready(function() {
+                    $('#myTable').dataTable({
+                         dom: 'ftip',
+                        }
+                    );
+                } );
+            </script>
     </div>
 <?= $this->endSection(); ?>
 
