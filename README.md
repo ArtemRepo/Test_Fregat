@@ -7,6 +7,8 @@
 :white_check_mark: Экспорт данных в Excel (PhpSpreadsheet)\
 :white_check_mark: Импорт данных CSV в директорию проекта\
 
+![screen](https://user-images.githubusercontent.com/132344932/235660006-4abd6493-8880-4d8b-ad1f-a3b74e9f5fd7.png)
+
 
 
 __DATABASE__
@@ -19,7 +21,7 @@ database.default.DBDriver = MySQLi\
 database.default.DBPrefix =\
 database.default.port = 3306\
 
-Run local in browser http://localhost:8080/posts
+В браузере http://localhost:8080/posts
 
 CREATE TABLE IF NOT EXISTS `posts` (\
   `id` int NOT NULL AUTO_INCREMENT,\
