@@ -1,6 +1,6 @@
-#Реестр проверок
+#__Реестр проверок__
 
-#Приложение с использованием MVC Codeigniter (php, ajax, search, Datatable, MySQL, PhpSpreadsheet)#
+#__Приложение с использованием MVC Codeigniter (php, ajax, search, Datatable, MySQL, PhpSpreadsheet)__#
 
 :white_check_mark: CRUD-приложение на Codeigniter (создание, чтение,редактирование,удаление данных)
 :white_check_mark: Поиск данных Datatable
@@ -9,7 +9,7 @@
 
 
 
-DATABASE
+__DATABASE__
 
 database.default.hostname = localhost
 database.default.database = ci4_blog
