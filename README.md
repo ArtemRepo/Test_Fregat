@@ -5,7 +5,7 @@
 :white_check_mark: CRUD-приложение на Codeigniter (создание, чтение,редактирование,удаление данных)\
 :white_check_mark: Поиск данных Datatable\
 :white_check_mark: Экспорт данных в Excel (PhpSpreadsheet)\
-:white_check_mark: Импорт данных CSV в директорию проекта\
+:white_check_mark: Импорт данных CSV в директорию проекта
 
 ![screen](https://user-images.githubusercontent.com/132344932/235660006-4abd6493-8880-4d8b-ad1f-a3b74e9f5fd7.png)
 
